@@ -1,0 +1,2 @@
+Learning Terminal navigation.
+Adding a second line using append operator.
