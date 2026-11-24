@@ -34,6 +34,15 @@ Each mission was conducted and committed sequentially as a self-contained learni
 
 ---
 
+## My Learning
+
+During this assignment, I had several key takeaways:
+1. **Command Line Confidence**: Navigating the filesystem, managing files, and checking processes using the macOS Terminal feels much faster and more transparent than using only a graphical interface.
+2. **Data & Numbers**: Working through binary and hexadecimal conversions by hand and then verifying them with Python showed me how digital hardware actually processes numbers and text behind the scenes.
+3. **Version Control with Git**: Learning how Git records snapshots through staging and committing taught me how software teams collaborate safely without overwriting each other's work.
+
+---
+
 ## How to Run the Python Programs
 
 ### 1. Hello World (`mission-04-programs/hello.py`)
@@ -52,3 +61,4 @@ python3 mission-05-numbers-data/number_converter.py
 
 - Each mission has its own dedicated commit following completion and verification.
 - Sensitive personal data such as local usernames, hostnames, and IP addresses have been redacted across all logs and documentation.
+
